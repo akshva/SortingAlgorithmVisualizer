@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# Sorting Algorithm Visualizer
 
 A web application to visualize sorting algorithms step by step with colors and numbers.
 
